@@ -1,6 +1,6 @@
 # Drug-Tracker
 
-## Contrinuters
+## Contributers
 Jana Falah, Mariam Mourad, Eman Fahoom
 
 This repositry was created for the Emerging Technologies course at Princess Sumaya University for Technology with the supervision of Dr Haitham Al-Ani.
