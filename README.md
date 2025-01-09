@@ -12,7 +12,7 @@ The Drug Tracker app is a blockchain based application created to ensure end-to-
 ![Diagram](/images/image.png)
 
 ## Deployment
-Visist this link to download forge tool
+Visit this link to download forge tool
 https://book.getfoundry.sh/getting-started/installation
 
 In the Drug Tracker Directory:
